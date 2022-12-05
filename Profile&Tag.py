@@ -4,7 +4,7 @@ null = None
 true = True
 false = False
 
-
+#apiKey='****'
 class CloudConformity(object):
     __slots__ = ('region', 'apikey', 'header')
 
